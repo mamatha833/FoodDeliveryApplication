@@ -127,11 +127,6 @@ nav {
     align-items: center;
 }
 
-.restaurant-name {
-    font-weight: 500;
-    margin-bottom: 0.25rem;
-}
-
 .items-count {
     color: #666;
     font-size: 0.9rem;
@@ -161,7 +156,25 @@ nav {
     background-color: #ff3344;
 }
 
+/* Restaurant Name and Icon Style */
+.restaurant-name {
+    font-weight: 500;
+    color: var(--primary-color);
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
 
+/* Empty Class Style */
+.empty {
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--primary-color);
+    font-size: 1.25rem;
+}
 
 /* Animations */
 @keyframes fadeIn {
