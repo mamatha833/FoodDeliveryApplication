@@ -14,9 +14,13 @@ A **Java-based** web application that allows users to explore restaurants, order
 
 ## ✨ Screenshots
 ![image](https://github.com/user-attachments/assets/c12f3df6-b564-4bb8-ae1b-5bcff1adec45)
+
 ![image](https://github.com/user-attachments/assets/5c9f6fe3-1184-4d50-afe2-8e0fbd92e050)
+
 ![image](https://github.com/user-attachments/assets/51fa21a5-c97e-4aef-b71e-b21ae2e614fa)
+
 ![image](https://github.com/user-attachments/assets/54292327-1d28-44fb-a04b-7499fcf80d6c)
+
 ![image](https://github.com/user-attachments/assets/228e19e9-8a83-480c-8749-ad2699416b2c)
 
 
